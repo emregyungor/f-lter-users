@@ -1,0 +1,58 @@
+export const Users = [
+    {
+        "id":1,
+        "first_name" : "Emre",
+        "last_name" : "Gungor",
+        "email" : "emioni123@.com",
+        "gender" : "Male",
+    },
+    {
+        "id":2,
+        "first_name" : "İlker",
+        "last_name" : "Yılmaz",
+        "email" : "Ilkeryılmaz@.com",
+        "gender" : "Male",
+    },
+    {
+        "id":3,
+        "first_name" : "Alican",
+        "last_name" : "Kocman",
+        "email" : "Alikocman@.com",
+        "gender" : "Male",
+    },
+    {
+        "id":4,
+        "first_name" : "Enes",
+        "last_name" : "Cengız",
+        "email" : "Enescengız@.com",
+        "gender" : "Male",
+    },
+    {
+        "id":5,
+        "first_name" : "Hıkmet",
+        "last_name" : "Bedır",
+        "email" : "Hıkmetbedır@.com",
+        "gender" : "Male",
+    },
+    {
+        "id":6,
+        "first_name" : "ahmet",
+        "last_name" : "veli",
+        "email" : "ahmetveli@.com",
+        "gender" : "Male",
+    },
+    {
+        "id":7,
+        "first_name" : "mehmet",
+        "last_name" : "basri",
+        "email" : "mehmetbasri@.com",
+        "gender" : "Male",
+    },
+    {
+        "id":8,
+        "first_name" : "onur",
+        "last_name" : "taştan",
+        "email" : "onurtastan@.com",
+        "gender" : "Male",
+    },
+]
